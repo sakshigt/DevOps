@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1719379755,,"wq"
+|2,0,1719379870,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,36 +25,46 @@
 # Registers:
 
 # File marks:
-'0  3  0  ~/filey
-|4,48,3,0,1719379755,"~/filey"
-'1  1  30  ~/file3
-|4,49,1,30,1719379355,"~/file3"
-'2  1  28  ~/filey
-|4,50,1,28,1719378207,"~/filey"
-'3  1  28  ~/filey
-|4,51,1,28,1719378207,"~/filey"
-'4  2  0  ~/fileee1
-|4,52,2,0,1719347440,"~/fileee1"
-'5  1  0  ~/fileee1
-|4,53,1,0,1719346500,"~/fileee1"
-'6  1  0  ~/fileee1
-|4,54,1,0,1719346500,"~/fileee1"
-'7  1  0  ~/fileee1
-|4,55,1,0,1719345127,"~/fileee1"
-'8  1  0  ~/fileee1
-|4,56,1,0,1719345127,"~/fileee1"
-'9  1  0  ~/devops/file
-|4,57,1,0,1716196189,"~/devops/file"
+'0  4  2  ~/filey
+|4,48,4,2,1719379870,"~/filey"
+'1  3  0  ~/filey
+|4,49,3,0,1719379755,"~/filey"
+'2  3  0  ~/filey
+|4,50,3,0,1719379755,"~/filey"
+'3  1  30  ~/file3
+|4,51,1,30,1719379355,"~/file3"
+'4  1  28  ~/filey
+|4,52,1,28,1719378207,"~/filey"
+'5  1  28  ~/filey
+|4,53,1,28,1719378207,"~/filey"
+'6  1  28  ~/filey
+|4,54,1,28,1719378207,"~/filey"
+'7  1  28  ~/filey
+|4,55,1,28,1719378207,"~/filey"
+'8  2  0  ~/fileee1
+|4,56,2,0,1719347440,"~/fileee1"
+'9  1  0  ~/fileee1
+|4,57,1,0,1719346500,"~/fileee1"
 
 # Jumplist (newest first):
+-'  4  2  ~/filey
+|4,39,4,2,1719379870,"~/filey"
+-'  3  0  ~/filey
+|4,39,3,0,1719379849,"~/filey"
 -'  3  0  ~/filey
 |4,39,3,0,1719379755,"~/filey"
+-'  1  28  ~/filey
+|4,39,1,28,1719379644,"~/filey"
 -'  1  28  ~/filey
 |4,39,1,28,1719379644,"~/filey"
 -'  1  30  ~/file3
 |4,39,1,30,1719379355,"~/file3"
 -'  1  30  ~/file3
 |4,39,1,30,1719379355,"~/file3"
+-'  1  30  ~/file3
+|4,39,1,30,1719379355,"~/file3"
+-'  1  30  ~/file3
+|4,39,1,30,1719379355,"~/file3"
 -'  1  28  ~/filey
 |4,39,1,28,1719378207,"~/filey"
 -'  1  28  ~/filey
@@ -75,6 +85,38 @@
 |4,39,2,0,1719347440,"~/fileee1"
 -'  2  0  ~/fileee1
 |4,39,2,0,1719347440,"~/fileee1"
+-'  2  0  ~/fileee1
+|4,39,2,0,1719347440,"~/fileee1"
+-'  2  0  ~/fileee1
+|4,39,2,0,1719347440,"~/fileee1"
+-'  2  0  ~/fileee1
+|4,39,2,0,1719347440,"~/fileee1"
+-'  2  0  ~/fileee1
+|4,39,2,0,1719347440,"~/fileee1"
+-'  2  0  ~/fileee1
+|4,39,2,0,1719347440,"~/fileee1"
+-'  2  0  ~/fileee1
+|4,39,2,0,1719347440,"~/fileee1"
+-'  2  0  ~/fileee1
+|4,39,2,0,1719347440,"~/fileee1"
+-'  2  0  ~/fileee1
+|4,39,2,0,1719347440,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719347398,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719347398,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719347398,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719347398,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719347398,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719347398,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719347398,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719347398,"~/fileee1"
 -'  1  0  ~/fileee1
 |4,39,1,0,1719347398,"~/fileee1"
 -'  1  0  ~/fileee1
@@ -108,6 +150,34 @@
 -'  1  0  ~/fileee1
 |4,39,1,0,1719346500,"~/fileee1"
 -'  1  0  ~/fileee1
+|4,39,1,0,1719346500,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719346500,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719346500,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719346500,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719346500,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719346500,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719346500,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719346500,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719345127,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719345127,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719345127,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719345127,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719345127,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719345127,"~/fileee1"
+-'  1  0  ~/fileee1
 |4,39,1,0,1719345127,"~/fileee1"
 -'  1  0  ~/fileee1
 |4,39,1,0,1719345127,"~/fileee1"
@@ -123,80 +193,10 @@
 |4,39,1,0,1719345127,"~/fileee1"
 -'  1  0  ~/fileee1
 |4,39,1,0,1719345127,"~/fileee1"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
--'  1  0  ~/devops/file
-|4,39,1,0,1716196189,"~/devops/file"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719345127,"~/fileee1"
+-'  1  0  ~/fileee1
+|4,39,1,0,1719345127,"~/fileee1"
 -'  1  0  ~/devops/file
 |4,39,1,0,1716196189,"~/devops/file"
 -'  1  0  ~/devops/file
@@ -251,12 +251,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/filey
-	*	1719379752	0
-	"	3	0
-	^	3	0
-	.	2	19
+	*	1719379866	0
+	"	4	2
+	^	4	3
+	.	4	1
 	+	2	0
 	+	2	19
+	+	4	1
 
 > ~/file3
 	*	1719379351	0
