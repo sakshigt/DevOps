@@ -203,3 +203,14 @@ git commit -m "My commit from India"
 git status
 git log
 git remote add origin "https://github.com/sakshigt/DevOps.git"
+git checkout -b new-feature-branch
+git checkout -b new-branch
+git status
+git add .
+git commit -m "My new commit"
+touch file3
+git add .
+git commit -m "My new commit"
+git checkout master
+git merge new-branch
+ls
