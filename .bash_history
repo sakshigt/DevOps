@@ -180,3 +180,26 @@ nano ~/ansible/playbooks/webservers.yml
 ansible-playbook -i ~/ansible/hosts install_apache.yml
 EXIT
 exit
+git init
+cd kledevops
+git init
+cd ..
+vi fileee1
+git add .
+git status
+git commit -m "My first commit from Mumbai"
+git status
+git log
+git remote add origin
+git remote add origin "https://github.com/sakshigt/DevOps.git"
+git push -u origin master
+ls
+git init
+vi fileee1
+git status
+git add .
+git status
+git commit -m "My commit from India"
+git status
+git log
+git remote add origin "https://github.com/sakshigt/DevOps.git"
